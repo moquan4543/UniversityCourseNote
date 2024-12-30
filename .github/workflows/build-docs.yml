@@ -11,7 +11,7 @@
     pages: write
 
   env:
-    INSTANCE: 'Writerside/CourseNote'
+    INSTANCE: 'Writerside/UniversityCourseNote'
     DOCKER_VERSION: '243.22562'
 
   jobs:
