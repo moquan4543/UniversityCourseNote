@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="Cryptography"
+                 name="密碼學 - 期末考筆記"
+                 start-page="密碼學-期末考筆記.md">
+
+    <toc-element topic="DigitalSignature.topic"/>
+    <toc-element topic="DHKE.md"/>
+    <toc-element topic="密碼學-期末考筆記.md"/>
+</instance-profile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="OperatingSystemNote"
+                 name="作業系統 - 期末考筆記"
+                 start-page="作業系統-期末考筆記.md">
+
+    <toc-element topic="作業系統-期末考筆記.md"/>
+    <toc-element topic="ExclusiveSoftware.md"/>
+    <toc-element topic="ExclusiveHardware.md"/>
+    <toc-element topic="MutexLock.md"/>
+    <toc-element topic="Semaphore.md"/>
+    <toc-element topic="BoundedBufferProblem.md"/>
+    <toc-element topic="SmokerProblem.md"/>
+    <toc-element topic="ExtendedLearning-AIOS.md"/>
+
+</instance-profile>
